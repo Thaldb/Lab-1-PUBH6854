@@ -4,6 +4,8 @@
 
 I used OpenAI Codex in the Codex desktop app with the GPT-5.6 Sol model. I used it as a guide while I typed commands and checked the results. It also helped me understand the assignment, plan the folder structure, draft the Python and R scripts and Dockerfile, and organize the README. I reviewed the files and ran the important commands before keeping its suggestions.
 
+I also chose to have it ask me quiz questions along the way to deepen my understanding, and when the time came for certain situations, run the commands myself and try to predict the output beforehand, then explain it (such as with git commands). I really enjoyed this medium of learning because I do not have prior experience, so I was able to (as I would put it) maximize my learning. It also helped me understand using the command line better, like using the GitHub CLI instead of relying on the website itself to commit/push changes, for example. 
+
 ## R error: missing dplyr
 
 I ran the R script before installing `dplyr` and got this error:
