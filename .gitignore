@@ -1,0 +1,9 @@
+.DS_Store
+*.log
+secrets.txt
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
