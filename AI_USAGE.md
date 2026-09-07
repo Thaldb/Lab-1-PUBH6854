@@ -2,7 +2,7 @@
 
 ## What I used
 
-I used OpenAI Codex in the Codex desktop app with a GPT-5 model. I used it as a guide while I typed commands and checked the results. It also helped me understand the assignment, plan the folder structure, draft the Python and R scripts and Dockerfile, and organize the README. I reviewed the files and ran the important commands before keeping its suggestions.
+I used OpenAI Codex in the Codex desktop app with the GPT-5.6 Sol model. I used it as a guide while I typed commands and checked the results. It also helped me understand the assignment, plan the folder structure, draft the Python and R scripts and Dockerfile, and organize the README. I reviewed the files and ran the important commands before keeping its suggestions.
 
 ## R error: missing dplyr
 
