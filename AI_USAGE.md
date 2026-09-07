@@ -4,7 +4,7 @@
 
 I used OpenAI Codex in the Codex desktop app with the GPT-5.6 Sol model. I used it as a guide while I typed commands and checked the results. It also helped me understand the assignment, plan the folder structure, draft the Python and R scripts and Dockerfile, and organize the README. I reviewed the files and ran the important commands before keeping its suggestions.
 
-I also chose to have it ask me quiz questions along the way to deepen my understanding, and when the time came for certain situations, run the commands myself and try to predict the output beforehand, then explain it (such as with git commands). I really enjoyed this medium of learning because I do not have prior experience, so I was able to (as I would put it) maximize my learning. It also helped me understand using the command line better, like using the GitHub CLI instead of relying on the website itself to commit/push changes, for example. 
+I also chose to have it ask me quiz questions along the way to deepen my understanding, and when the time came for certain situations, run the commands myself and try to predict the output beforehand, then explain it (such as with git commands). I really enjoyed this medium of learning because I do not have prior experience, so I was able to (as I would put it) maximize my learning. It also helped me understand using the command line better, like using the GitHub CLI instead of relying on the website itself to commit/push changes, for example. Now that I am done with the lab, I asked it to create me a final quiz to cover what I did for this assignment, and review topics from the last two weeks. 
 
 ## R error: missing dplyr
 
@@ -72,3 +72,5 @@ What is the toy project and what exactly does the assignment say is required fro
 ```
 
 Codex checked the course instructions and rubric and explained that a toy project is a small example used to prove that the setup works. It suggested using one fake patient CSV for both languages. I chose to use this idea because it was similar to the Week 1 practical and made the correct results easy to calculate by hand.
+
+Since I do not have experience creating anything in GitHub, using Codex as somewhat of a pocket tutor was a huge accelerant for me to get acquainted with what the workflow looks like in practice to interact with GitHub. I am doing my absolute best to strike the balance between using AI tools the right way, and to me that is to help while simultaneously finding the right questions to ask so I can learn faster. 
